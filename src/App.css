@@ -29,7 +29,7 @@ body {
 }
 
 .container .carousel .item {
-  background-color: white;
+  background-color: rgb(203, 79, 79);
   margin: 10px;
   padding: 10px;
   width: 280px;
